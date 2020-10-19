@@ -1,40 +1,27 @@
-## Welcome to GitHub Pages
+## Bienvenido a las páginas de GitHub roger0594
 
-You can use the [editor on GitHub](https://github.com/roger0594/roger0594.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Información general
+Modelo de desarrollo	Software propietario
+Lanzamiento inicial	29 de junio de 2007
+Última versión estable	14.0.1
+(18A393) (info)
+24 de septiembre de 2020 (21 días)
+Última versión en pruebas	14.2 beta 2
+(18B5061e) (info)
+29 de septiembre de 2020 (16 días)
+Escrito en	C, C++, Objective-C, Swift
+Núcleo	XNU
+Tipo de núcleo	Núcleo híbrido (XNU)
+Interfaz gráfica predeterminada	Cocoa Touch (Multitáctil, GUI)
+Plataformas admitidas	ARM (iPhone y iPod Touch)
+Sistema de gestión de paquetes	.ipa .dmg .pkg .deb y App Store
+Método de actualización	Mediante iTunes. A partir de iOS 5 se puede actualizar desde el dispositivo (OTA).
+Licencia	APSL y Apple EULA
+Estado actual	En permanente desarrollo
+Idiomas	40 idiomas
+iOS es un sistema operativo móvil de la multinacional Apple Inc. Originalmente desarrollado para el iPhone (iPhone OS), se ha usado en dispositivos como el iPod touch y el iPad. Apple no permite la instalación de iOS en hardware de terceros.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/roger0594/roger0594.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+La última versión del sistema operativo es iOS 14 (lanzada en septiembre de 2020) que sustituye a iOS 131​ con el objetivo principal de mejorar la experiencia del usuario, integrando cambios relevantes, entre ellos el nuevo Modo Oscuro o la posibilidad de utilizar memorias externas con la app Archivos del sistema.
 
 <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
 <df-messenger
