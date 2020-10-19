@@ -1,5 +1,5 @@
 ## Bienvenido a las páginas de GitHub Roger Moran Cagua
-IOS <b>
+IOS <b> <br>
 Información general<br>
 Modelo de desarrollo	Software propietario<br>
 Lanzamiento inicial	29 de junio de 2007 <br>
