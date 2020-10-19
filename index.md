@@ -1,11 +1,11 @@
 ## Bienvenido a las páginas de GitHub roger0594
-
-Información general
-Modelo de desarrollo	Software propietario
-Lanzamiento inicial	29 de junio de 2007
-Última versión estable	14.0.1
-(18A393) (info)
-24 de septiembre de 2020 (21 días)
+###IOS
+Información general<br>
+Modelo de desarrollo	Software propietario<br>
+Lanzamiento inicial	29 de junio de 2007 <br>
+Última versión estable	14.0.1<br>
+(18A393) (info)<br>
+24 de septiembre de 2020 (21 días)<br>
 Última versión en pruebas	14.2 beta 2
 (18B5061e) (info)
 29 de septiembre de 2020 (16 días)
